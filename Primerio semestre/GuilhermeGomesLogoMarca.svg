@@ -63,8 +63,8 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="0.76458333"
-     inkscape:cx="861.25341"
-     inkscape:cy="2103.1063"
+     inkscape:cx="861.90736"
+     inkscape:cy="2076.2943"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
@@ -76,7 +76,7 @@
      inkscape:label="Image"
      id="g1">
     <path
-       style="fill:#d45500"
+       style="fill:#d45500;stroke:#d45500"
        d="m 701.03542,2057.3297 14.38692,-56.2398 -58.85558,-213.188 122.94278,100.7084 m 316.51226,168.7194 -14.3869,-56.2398 58.8556,-213.188 -122.9428,100.7084"
        id="path10" />
     <path
@@ -103,28 +103,32 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect14);display:inline;fill:#000000" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.308px;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:736.483;display:inline;fill:#000000;stroke-width:9.10897"
-       x="521.34045"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.308px;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:736.483;display:inline;fill:#000000;stroke-width:9.10897"
+       x="834.53351"
        y="1749.4149"
        id="text15-8"
-       transform="matrix(1.2562698,0,0,0.82394987,-107.06167,988.93963)"><tspan
-         x="521.34045"
+       transform="matrix(1.2562698,0,0,0.82394987,-127.9881,981.09221)"><tspan
+         x="834.53351"
          y="1749.4149"
-         id="tspan1">DEVELOPER</tspan></text>
+         id="tspan4"><tspan
+           style="font-family:'Lucida Bright';-inkscape-font-specification:'Lucida Bright'"
+           id="tspan3">DEVELOPER</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text17"
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect17);display:inline;fill:#000000" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.308px;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:736.483;display:inline;fill:#000000;stroke-width:9.10897"
-       x="521.34045"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.308px;font-family:'Lucida Bright';-inkscape-font-specification:'Lucida Bright Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:736.483;display:inline;fill:#000000;stroke-width:9.10897"
+       x="832.90564"
        y="1749.4149"
        id="text19-1"
-       transform="matrix(1.116238,0,0,0.82394987,-39.666932,303.76149)"><tspan
-         x="521.34045"
+       transform="matrix(1.116238,0,0,0.82394987,-35.743226,316.84051)"><tspan
+         x="832.90564"
          y="1749.4149"
-         id="tspan2">GUILHERME</tspan></text>
+         id="tspan6"><tspan
+           style="font-style:normal;-inkscape-font-specification:'Lucida Bright'"
+           id="tspan5">GUILHERME</tspan></tspan></text>
     <path
        style="fill:#000000;stroke-width:1.67857"
        d="m 837.05722,2080.4756 c 115.09536,-2.2195 115.09536,-2.2195 115.09536,-2.2195 -54.29027,73.2425 -54.29027,73.2425 -54.29027,73.2425 z"
@@ -140,7 +144,8 @@
     <path
        style="fill:#ffffff"
        d="m 838.36512,2082.1798 -228.88283,52.3161 290.35422,194.8774 289.04629,-194.8774 -239.34601,-53.624 -51.00818,70.6267 z"
-       id="path24" />
+       id="path24"
+       sodipodi:nodetypes="ccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
